@@ -41,6 +41,7 @@ li {
 @keyframes sprite {
     from, 24%, 76%, to {
         box-shadow:
+        /* 1行目 */
         4px 4px 0 transparent,
         8px 4px 0 transparent,
         12px 4px 0 transparent,
@@ -72,6 +73,7 @@ li {
         116px 4px 0 transparent,
         120px 4px 0 transparent,
         124px 4px 0 transparent,
+        /* 2行目 */
         4px 8px 0 transparent,
         8px 8px 0 transparent,
         12px 8px 0 transparent,
@@ -103,6 +105,7 @@ li {
         116px 8px 0 transparent,
         120px 8px 0 transparent,
         124px 8px 0 transparent,
+        /* 3行目 */
         4px 12px 0 transparent,
         8px 12px 0 transparent,
         12px 12px 0 transparent,
